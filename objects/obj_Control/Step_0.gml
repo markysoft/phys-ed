@@ -11,7 +11,7 @@ if mouse_check_button(mb_right)
     with (obj_DynamicParent)
         {
         var dir = point_direction(mouse_x, mouse_y, x, y);
-        //physics_apply_impulse(x, y, lengthdir_x(100, dir), lengthdir_y(100, dir));
+        // physics_apply_impulse(x, y, lengthdir_x(100, dir), lengthdir_y(100, dir));
         physics_apply_force(x, y, lengthdir_x(100, dir), lengthdir_y(100, dir));
         }
     }

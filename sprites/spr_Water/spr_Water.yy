@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"f08da385-df93-4f58-beab-8d7ab54f7f88","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7478fa26-b449-4265-af06-257381bd4f71","path":"sprites/spr_Water/spr_Water.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e5462f56-e363-454c-abc5-420a76c1d7fc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7478fa26-b449-4265-af06-257381bd4f71","path":"sprites/spr_Water/spr_Water.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
@@ -60,7 +60,7 @@
     "eventStubScript": null,
     "parent": {"name":"spr_Water","path":"sprites/spr_Water/spr_Water.yy",},
     "resourceVersion": "1.3",
-    "name": "",
+    "name": "spr_Water",
     "tags": [],
     "resourceType": "GMSequence",
   },
