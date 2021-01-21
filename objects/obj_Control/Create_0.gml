@@ -11,6 +11,8 @@ physics_particle_set_damping(1);
 
 alarm[1] = 1
 
-physics_particle_group_begin(flags2, groupflags, 430, 630, 0, 0, 0, 0, c_white, 1, 1, 2)
-physics_particle_group_box(32, 24)
+physics_particle_group_begin(flags2, groupflags, 462, 672, 0, 0, 0, 0, c_white, 1, 1, 2)
+physics_particle_group_box(32, 16)
 physics_particle_group_end()
+
+alarm[2] = 60
