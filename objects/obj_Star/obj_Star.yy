@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_Star",
+    "path": "sprites/spr_Star/spr_Star.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_DynamicParent",
+    "path": "objects/obj_DynamicParent/obj_DynamicParent.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 2,
+  "physicsGroup": 0,
+  "physicsDensity": 0.8,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.6,
+  "physicsAngularDamping": 0.6,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":32.0,"y":32.0,},
+    {"x":0.0,"y":32.0,},
+    {"x":16.0,"y":0.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Star","path":"objects/obj_Star/obj_Star.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_Star",
+  "tags": [],
+  "resourceType": "GMObject",
+}
