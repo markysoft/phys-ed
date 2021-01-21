@@ -9,3 +9,4 @@ groupflags = phy_particle_group_flag_solid; // | phy_particle_group_flag_rigid;
 physics_particle_set_density(0.5);
 physics_particle_set_damping(1);
 
+alarm[1] = 1
