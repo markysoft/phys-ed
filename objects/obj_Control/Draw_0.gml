@@ -16,6 +16,7 @@ if (duck_id > 0) {
 		draw_set_color(c_orange);
 	} else {
 		draw_set_color(c_red);
+		room_goto(rm_opening);
 	}
 	draw_text(room_width - 30, 40, "Duck height:" + string(round(duck_id.y)));
 }

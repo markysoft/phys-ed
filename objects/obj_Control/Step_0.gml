@@ -15,3 +15,10 @@ if physics_particle_count() > 0
 	physics_particle_delete_region_box(room_width + 64, room_height / 2, 64, room_height);
 	}
 	
+	
+if (instance_exists(obj_Duck)) {
+	duck_height = room_height - round(obj_Duck.y);
+	if (duck_height > duck_height_end) {
+		room_goto(rm_gameover);
+	}
+}

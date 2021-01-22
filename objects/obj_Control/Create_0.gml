@@ -30,6 +30,7 @@ if (room == room101) {
 alarm[2] = 60
 
 // Height for duck. 16 is the block size
+duck_height = 0
 duck_height_ok = 18 * 16
 duck_height_warn = 20 * 16
 duck_height_end = 22 * 16
