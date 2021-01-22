@@ -454,7 +454,6 @@
     {"name":"inst_3692AA3C","path":"rooms/room0/room0.yy",},
     {"name":"inst_1999FAAD","path":"rooms/room0/room0.yy",},
     {"name":"inst_3DA3CC4C","path":"rooms/room0/room0.yy",},
-    {"name":"inst_2F9728FD","path":"rooms/room0/room0.yy",},
     {"name":"inst_3800D5F2","path":"rooms/room0/room0.yy",},
   ],
   "inheritCreationOrder": false,
