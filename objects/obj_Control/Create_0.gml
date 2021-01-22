@@ -1,7 +1,7 @@
 /// @description Initialise Physics Particles
 
 physics_particle_set_radius(2);
-physics_particle_set_max_count(0);
+physics_particle_set_max_count(20000);
 flags1 = phy_particle_flag_water; // | phy_particle_flag_tensile;
 flags2 = phy_particle_flag_viscous // | phy_particle_flag_viscous // | phy_particle_flag_spring;
 groupflags = phy_particle_group_flag_solid; // | phy_particle_group_flag_rigid;
