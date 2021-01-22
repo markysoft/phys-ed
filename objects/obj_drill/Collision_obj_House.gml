@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-if room_next(room) != -1
-{
-	room_goto_next()
-}	
+instance_destroy();
+	effect_create_above(ef_explosion, x, y, 1, c_yellow);
