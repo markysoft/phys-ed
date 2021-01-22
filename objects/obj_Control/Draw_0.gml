@@ -21,3 +21,8 @@ if (duck_id > 0) {
 }
 
 draw_set_color(c_white)
+
+//show lives
+draw_set_halign(fa_right);
+draw_text(room_width - 30, 60, "Score: " + string(score));
+draw_text(room_width - 30, 80, "Drills: " + string(lives));

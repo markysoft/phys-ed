@@ -1,10 +1,10 @@
 /// @description Create Instances
 
-if (mouse_check_button(mb_left) && (alarm[0] < 0))
-    {
-    instance_create_layer(mouse_x, mouse_y, layer,  obj_Circle);
-    alarm[0] = 5;
-    }
+//if (mouse_check_button(mb_left) && (alarm[0] < 0))
+    //{
+    //instance_create_layer(mouse_x, mouse_y, layer,  obj_Circle);
+   // alarm[0] = 5;
+    //}
 
 // Check if there are any particles
 if physics_particle_count() > 0

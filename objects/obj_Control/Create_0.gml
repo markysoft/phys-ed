@@ -24,3 +24,8 @@ alarm[2] = 60
 duck_height_ok = 9 * 16
 duck_height_warn = 11 * 16
 duck_height_end = 13 * 16
+
+//lives, score, drills left
+score = 0;
+lives = 3;
+drills = 5;
