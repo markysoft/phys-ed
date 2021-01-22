@@ -3,6 +3,7 @@
     {"id":{"name":"spr_Cloud","path":"sprites/spr_Cloud/spr_Cloud.yy",},"order":8,},
     {"id":{"name":"spr_Floor","path":"sprites/spr_Floor/spr_Floor.yy",},"order":0,},
     {"id":{"name":"spr_Block","path":"sprites/spr_Block/spr_Block.yy",},"order":1,},
+    {"id":{"name":"game_create_aeroplane","path":"scripts/game_create_aeroplane/game_create_aeroplane.yy",},"order":3,},
     {"id":{"name":"spr_Circle","path":"sprites/spr_Circle/spr_Circle.yy",},"order":2,},
     {"id":{"name":"spr_drill","path":"sprites/spr_drill/spr_drill.yy",},"order":13,},
     {"id":{"name":"obj_Duck","path":"objects/obj_Duck/obj_Duck.yy",},"order":11,},
