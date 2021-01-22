@@ -22,13 +22,6 @@ if mouse_check_button(mb_middle)
 	physics_particle_create(flags1, mouse_x - 32 + random(64), mouse_y - 32 + random(64), 0, 0, c_white, 1, 1);
 	}
 
-// Create a particle group
-if keyboard_check_pressed(vk_space)
-	{
-	physics_particle_group_begin(flags2, groupflags, mouse_x, mouse_y, 0, 0, 0, 0, c_white, 1, 1, 2);
-	physics_particle_group_circle(50);
-	physics_particle_group_end();
-	}
 
 // Check if there are any particles
 if physics_particle_count() > 0
