@@ -13,7 +13,7 @@
   },
   "physicsObject": true,
   "physicsSensor": false,
-  "physicsShape": 0,
+  "physicsShape": 1,
   "physicsGroup": 0,
   "physicsDensity": 0.3,
   "physicsRestitution": 0.5,
@@ -23,8 +23,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":16.0,"y":16.0,},
-    {"x":16.0,"y":16.0,},
+    {"x":0.0,"y":5.0,},
+    {"x":39.0,"y":5.0,},
+    {"x":39.0,"y":46.0,},
+    {"x":0.0,"y":46.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Drill","path":"objects/obj_Drill/obj_Drill.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
