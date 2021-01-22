@@ -3,9 +3,13 @@
 instance_destroy();
 if(room101)
 {
-obj_Control.alarm[3] = 180;
+	if (instance_exists(obj_Control)) {
+		obj_Control.alarm[3] = 180;
+	}
 }
 else
 {
-obj_new_game.alarm[0] = 60;
+	if (instance_exists(obj_new_game)) {
+		obj_new_game.alarm[0] = 60;
+	}
 }
