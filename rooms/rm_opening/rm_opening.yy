@@ -14,7 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_aeroplane","path":"objects/obj_aeroplane/obj_aeroplane.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":64.0,"resourceVersion":"1.0","name":"inst_19C5E542","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":160.0,"resourceVersion":"1.0","name":"inst_37A88155","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_big_duck","path":"objects/obj_big_duck/obj_big_duck.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":13.000001,"scaleY":11.666666,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":512.0,"resourceVersion":"1.0","name":"inst_1E89276C","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_load_game","path":"objects/obj_load_game/obj_load_game.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":192.0,"resourceVersion":"1.0","name":"inst_3834DA29","tags":[],"resourceType":"GMRInstance",},
@@ -32,7 +31,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_19C5E542","path":"rooms/rm_opening/rm_opening.yy",},
     {"name":"inst_37A88155","path":"rooms/rm_opening/rm_opening.yy",},
     {"name":"inst_1E89276C","path":"rooms/rm_opening/rm_opening.yy",},
     {"name":"inst_3834DA29","path":"rooms/rm_opening/rm_opening.yy",},
