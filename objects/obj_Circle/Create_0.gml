@@ -1,6 +1,6 @@
 /// @description Setup Physics
 exploded = false
-bounces = 3
+tiles_to_remove = 3
 
 var fixture = physics_fixture_create();
 physics_fixture_set_circle_shape(fixture, sprite_width / 2);
